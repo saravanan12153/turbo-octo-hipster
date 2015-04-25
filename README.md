@@ -1,2 +1,2 @@
-This a website I created. It's prettu basic, but I wanted to work on my CSS. 
-Link
+This a website I created. It's pretty basic, but I wanted to work on my CSS. 
+Link: 
